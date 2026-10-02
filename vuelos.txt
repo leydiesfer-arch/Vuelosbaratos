@@ -1,0 +1,7 @@
+Puyo,Quito,45
+Puyo,Guayaquil,70
+Quito,Guayaquil,35
+Quito,Cuenca,40
+Guayaquil,Cuenca,30
+Guayaquil,Manta,25
+Cuenca,Manta,20
